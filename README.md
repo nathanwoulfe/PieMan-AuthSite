@@ -1,2 +1,3 @@
-# PieMan-AuthSite
-OAuth site for PieMan 
+# PieMan OAuth
+
+Manages the OAuth flow for the PieMan property editor
